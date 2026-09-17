@@ -17,7 +17,7 @@ Tanya per kalimat: **"kalau gw hapus, apa yang hilang?"** Jawabannya nggak ada â
 
 **1. Pilih ragam, konsisten sampai selesai.**
 - Ragam **baku**: README, docs publik, laporan kerja, UI copy. Kamu/Anda netral, tanpa slang.
-- Ragam **santai**: chat internal, konten komunitas, pesan commit yang santai. Gw/lu atau aku/kamu â€” pilih satu.
+- Ragam **santai**: chat internal, konten komunitas. Default **gw/lu**; pakai *aku/kamu* kalau audiensnya lebih luas/nasional. Pilih satu, konsisten.
 - Dilarang campur dalam satu dokumen. Satu dokumen = satu register.
 
 **2. Istilah teknis: pakai yang dipakai developer Indonesia sehari-hari.**
